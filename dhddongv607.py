@@ -35,7 +35,7 @@ USER_NAME = "dhddong"         # 用户名
 UUID = "4c091bcb-65c2-45af-b8e0-087eab1476cf"                     # UUID，留空则自动生成
 PORT = 8471                   # Vmess端口，留空或0则自动生成
 DOMAIN = "607.dhddong.eu.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiOTViMmMyMTE4OTQwN2ExYjNjYTA3MGM1YTMzN2YzZGIiLCJ0IjoiOGJjNjNlOTktZTQ3YS00NDU4LWIxOWEtYmE1MGZiY2ZkZjUwIiwicyI6Ik0yTTVZVFpsWVRNdE5HUTVNUzAwWWpZNExXRXhaalV0TkRFMlpEY3daV1V5WkdVMSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiOTViMmMyMTE4OTQwN2ExYjNjYTA3MGM1YTMzN2YzZGIiLCJ0IjoiMmRlZTgwOWYtZTJkZS00MTJkLThjODUtZmI3OWUzZWZmZjE1IiwicyI6Ill6RXpPR0l4TWpndE1EUXdZeTAwTVRnMUxUbGxNbVl0Wm1RMllUZGlOMlExTWpCaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
